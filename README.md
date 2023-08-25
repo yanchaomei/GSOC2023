@@ -21,13 +21,20 @@ https://github.com/apache/rocketmq-clients/issues/382 (Assigned)
 
 ### Pull Request
 [Pull Request #508](https://github.com/apache/rocketmq-clients/pull/508) (Status: Merged)
+
 [Pull Request #513](https://github.com/apache/rocketmq-clients/pull/513) (Status: Merged)
+
 [Pull Request #528](https://github.com/apache/rocketmq-clients/pull/528) (Status: Merged)
+
 [Pull Request #530](https://github.com/apache/rocketmq-clients/pull/530) (Status: Merged)
+
 [Pull Request #533](https://github.com/apache/rocketmq-clients/pull/533) (Status: Merged)
+
 [Pull Request #546](https://github.com/apache/rocketmq-clients/pull/546) (Status: Merged)
+
 [Pull Request #559](https://github.com/apache/rocketmq-clients/pull/559) (Status: Merged)
-[Pull Request #588](https://github.com/apache/rocketmq-clients/pull/588) (Status: Merged)
+
+[Pull Request #588](https://github.com/apache/rocketmq-clients/pull/588) (Status: Open)
 
 ## Conclusion
 In this project, we design and implement a Python Client for RocketMQ 5.0. In this way, developers can use python client to connect to RocketMQ.
