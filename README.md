@@ -34,7 +34,7 @@ https://github.com/apache/rocketmq-clients/issues/382 (Assigned)
 
 [Pull Request #559](https://github.com/apache/rocketmq-clients/pull/559) (Status: Merged)
 
-[Pull Request #588](https://github.com/apache/rocketmq-clients/pull/588) (Status: Open)
+[Pull Request #588](https://github.com/apache/rocketmq-clients/pull/588) (Status: Merged)
 
 ## Conclusion
 In this project, we design and implement a Python Client for RocketMQ 5.0. In this way, developers can use python client to connect to RocketMQ.
